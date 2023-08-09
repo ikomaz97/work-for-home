@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/work-for-home/static/css/main.1ab53bda.css",
+    "main.js": "/work-for-home/static/js/main.0ae2025b.js",
+    "static/js/787.66cb4309.chunk.js": "/work-for-home/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/work-for-home/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/work-for-home/index.html",
+    "main.1ab53bda.css.map": "/work-for-home/static/css/main.1ab53bda.css.map",
+    "main.0ae2025b.js.map": "/work-for-home/static/js/main.0ae2025b.js.map",
+    "787.66cb4309.chunk.js.map": "/work-for-home/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ab53bda.css",
+    "static/js/main.0ae2025b.js"
+  ]
+}
